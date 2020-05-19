@@ -1,6 +1,6 @@
 {
-    "name": "simplemathapp",
-    "short_name": "simplemathapp",
+    "name": "s2introduction",
+    "short_name": "s2introduction",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
